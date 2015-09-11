@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I am an artist using modern technology to do creative things. I also enjoy making computers work on my behalf, and so I [automate things](https://en.wikipedia.org/wiki/Player_Piano_(novel)) when I can. I work in a cubicle by day making complicated things simple and simple things complicated, systematically forgetting how to do things by teaching computers to do them for me, and deftly avoiding boredom by getting things done. I maintain a comprehensive cultural and technical vision in order to effectively operationalize a diverse range of tactics to achieve strategic opportunities fostering objectives carefully aligned with my mission:
+I am an artist using modern technology to do creative things. I also enjoy making computers work on my behalf, and so I [automate things](https://en.wikipedia.org/wiki/Player_Piano_(novel)) when I can. I work in a cubicle by day making complicated things simple and focusing on the complexities inherent in simple things, systematically forgetting how to do things by teaching computers to do them for me, and deftly avoiding boredom by getting things done. 
+
+I envision a world in which advanced technology can assist humanity in creating a flourishing and just civilization in balance with nature
+that enriches of our relationships with each other and our understanding and appreciation of the universe. I recognize that is not the world we have, but I would like to do whatever I can to make it closer to that. I have developed a diverse range of tactical capabilities and adopted strategies to align the logistics of my operational activities with objectives intended to advance specific, measurable, attainable, relevant, and time-bound goals in service to **my personal mission:**
 
 Be a servant leader using technology to enhance and improve the world.
 
@@ -15,7 +18,7 @@ While I'm originally from northern California, I now live in the beautiful City 
 
 ### Diet
 
-I'm not a vegetarian, but I don't really eat meat, either. I eat a whole-plant based diet, avoiding animal proteins (especially the industrialized variet) when I can.
+I like to eat a lot of fruits and veggies. I'm not a vegetarian, but I don't really eat much meat, either. I try to eat a whole-plant based diet, avoiding animal proteins (especially the industrialized variet) when I can.
 
 ### Favorite Quotes
 
