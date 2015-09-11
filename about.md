@@ -9,13 +9,13 @@ I am an artist using modern technology to do creative things. I also enjoy makin
 I envision a world in which advanced technology can assist humanity in creating a flourishing and just civilization in balance with nature
 that enriches of our relationships with each other and our understanding and appreciation of the universe. I recognize that is not the world we have, but I am ready to do what I can to make it closer to that. I have developed a diverse range of technical, creative and social capabilities which I bring to my efforts to create a strategic impact on the world as it exists. By aligning the allocation of resources I have available with my objectives, I seek to advance specific, measurable, attainable, relevant, and time-bound goals in service to **my personal mission:**
 
-```
-Be a servant leader using technology to creatively enhance and improve the world.
-```
+
+>Be a servant leader using technology to creatively enhance and improve the world.
+
 
 ### Geography
 
-While I'm originally from northern California, I now live in the beautiful City of Sat. Louis, MO. I'm a passionate advocate for this community. Someday, I want to retire in outer space.
+While I'm originally from northern California, I now live in the beautiful City of St. Louis, MO. I'm a passionate advocate for this community. Someday, I want to retire in outer space.
 
 ### Diet
 
@@ -25,13 +25,13 @@ I like to eat a lot of fruits and veggies. I'm not a vegetarian, but I don't rea
 
  "Knowledge does not keep 
  any better than fish."
- ---Alfred North Whitehead
+ &mdash; Alfred North Whitehead
 
  "The aim of education 
  is the knowledge, 
  not of facts, 
  but of values."  
- --- William S. Burroughs
+ &mdash; William S. Burroughs
 
  "I’m supposed to be 
  a scientific person 
@@ -39,14 +39,14 @@ I like to eat a lot of fruits and veggies. I'm not a vegetarian, but I don't rea
  more than logic 
  in making basic 
  decisions."
- --- Seymour R. Cray
+ &mdash; Seymour R. Cray
 
  "When we come to it 
  We must confess that we are the possible 
  We are the miraculous, the true wonder of this world 
  That is when, and only when 
  We come to it."
- --- Maya Angelou
+ &mdash; Maya Angelou
 
 
 ### Contact me
