@@ -7,10 +7,11 @@ permalink: /about/
 I am an artist using modern technology to do creative things. I also enjoy making computers work on my behalf, and so I [automate things](https://en.wikipedia.org/wiki/Player_Piano_(novel)) when I can. I work in a cubicle by day making complicated things simple and focusing on the complexities inherent in simple things, systematically forgetting how to do things by teaching computers to do them for me, and deftly avoiding boredom by getting things done. 
 
 I envision a world in which advanced technology can assist humanity in creating a flourishing and just civilization in balance with nature
-that enriches of our relationships with each other and our understanding and appreciation of the universe. I recognize that is not the world we have, but I would like to do whatever I can to make it closer to that. I have developed a diverse range of tactical capabilities and adopted strategies to align the logistics of my operational activities with objectives intended to advance specific, measurable, attainable, relevant, and time-bound goals in service to **my personal mission:**
+that enriches of our relationships with each other and our understanding and appreciation of the universe. I recognize that is not the world we have, but I am ready to do what I can to make it closer to that. I have developed a diverse range of technical, creative and social capabilities which I bring to my efforts to create a strategic impact on the world as it exists. By aligning the allocation of resources I have available with my objectives, I seek to advance specific, measurable, attainable, relevant, and time-bound goals in service to **my personal mission:**
 
-Be a servant leader using technology to enhance and improve the world.
-
+```
+Be a servant leader using technology to creatively enhance and improve the world.
+```
 
 ### Geography
 
@@ -22,29 +23,29 @@ I like to eat a lot of fruits and veggies. I'm not a vegetarian, but I don't rea
 
 ### Favorite Quotes
 
-"Knowledge does not keep 
-any better than fish."
+ "Knowledge does not keep 
+ any better than fish."
  ---Alfred North Whitehead
 
-"The aim of education 
-is the knowledge, 
-not of facts, 
-but of values."  
+ "The aim of education 
+ is the knowledge, 
+ not of facts, 
+ but of values."  
  --- William S. Burroughs
 
-"I’m supposed to be 
-a scientific person 
-but  I use intuition 
-more than logic 
-in making basic 
-decisions."
+ "I’m supposed to be 
+ a scientific person 
+ but  I use intuition 
+ more than logic 
+ in making basic 
+ decisions."
  --- Seymour R. Cray
 
-"When we come to it 
-We must confess that we are the possible 
-We are the miraculous, the true wonder of this world 
-That is when, and only when 
-We come to it."
+ "When we come to it 
+ We must confess that we are the possible 
+ We are the miraculous, the true wonder of this world 
+ That is when, and only when 
+ We come to it."
  --- Maya Angelou
 
 
