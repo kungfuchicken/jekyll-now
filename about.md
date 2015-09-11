@@ -23,30 +23,30 @@ I like to eat a lot of fruits and veggies. I'm not a vegetarian, but I don't rea
 
 ### Favorite Quotes
 
- "Knowledge does not keep 
- any better than fish."
- &mdash; Alfred North Whitehead
+>"Knowledge does not keep 
+>any better than fish."
+>&mdash; Alfred North Whitehead
 
- "The aim of education 
- is the knowledge, 
- not of facts, 
- but of values."  
- &mdash; William S. Burroughs
+>"The aim of education 
+>is the knowledge, 
+>not of facts, 
+>but of values."  
+>&mdash; William S. Burroughs
 
- "I’m supposed to be 
- a scientific person 
- but  I use intuition 
- more than logic 
- in making basic 
- decisions."
- &mdash; Seymour R. Cray
+>"I’m supposed to be 
+>a scientific person 
+>but  I use intuition 
+>more than logic 
+>in making basic 
+>decisions."
+>&mdash; Seymour R. Cray
 
- "When we come to it 
- We must confess that we are the possible 
- We are the miraculous, the true wonder of this world 
- That is when, and only when 
- We come to it."
- &mdash; Maya Angelou
+>"When we come to it 
+>We must confess that we are the possible 
+>We are the miraculous, the true wonder of this world 
+>That is when, and only when 
+>We come to it."
+>&mdash; Maya Angelou
 
 
 ### Contact me
